@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+nz0dtu9N79MNEMAaFOA7XlQVrzXluhZXZaLddq955k5JK4vHaIpT6XKC31iMimiobqWy3gOLR8tRffyYw4vzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juand\\Downloads\\Prueba Técnica - Desarrollador 02\\PruebaTecnicaSeti\\ArbolBinario\\ArbolBinario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Juand\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Juand\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Juand\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\bin\Debug\net6.0\ArbolBinario.exe
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\bin\Debug\net6.0\ArbolBinario.deps.json
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\bin\Debug\net6.0\ArbolBinario.runtimeconfig.json
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\bin\Debug\net6.0\ArbolBinario.dll
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\bin\Debug\net6.0\ArbolBinario.pdb
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\obj\Debug\net6.0\ArbolBinario.csproj.AssemblyReference.cache
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\obj\Debug\net6.0\ArbolBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\obj\Debug\net6.0\ArbolBinario.AssemblyInfoInputs.cache
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\obj\Debug\net6.0\ArbolBinario.AssemblyInfo.cs
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\obj\Debug\net6.0\ArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\obj\Debug\net6.0\ArbolBinario.dll
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\obj\Debug\net6.0\refint\ArbolBinario.dll
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\obj\Debug\net6.0\ArbolBinario.pdb
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\obj\Debug\net6.0\ArbolBinario.genruntimeconfig.cache
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ArbolBinario\obj\Debug\net6.0\ref\ArbolBinario.dll
